@@ -6,8 +6,8 @@ The data has been structured in the following manner and is available for downlo
 |-----|-----|-----|-----|-----|
 | Quantity | 426 | 326 |50 |50 |
 | Sex ratio(man) | 40% | 39% |38% |44% |
-| Name | | Train.zip.001(2,3) |Vail.zip |Test.zip |
-| Download | | [Train1](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Train.zip.001),[Train2](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Train.zip.002) ,[Train3](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Train.zip.003)|[Vail](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Vail.zip) |[Test](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Test.zip) |
+| Name | | Train.zip.001(2,3) |Vali.zip |Test.zip |
+| Download | | [Train1](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Train.zip.001),[Train2](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Train.zip.002) ,[Train3](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Train.zip.003)|[Vali](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Vail.zip) |[Test](https://github.com/Ma-S-T/Spine-MSCA/raw/refs/heads/main/Test.zip) |
 # Data description 
 Each data point consists of img.pt and label.pt, as explained in detail below:
 | Key | Dimension |Description|
