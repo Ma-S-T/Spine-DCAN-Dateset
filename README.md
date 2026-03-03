@@ -1,3 +1,4 @@
+#Intruduciton
 The dataset is accompanied by a set of labels that indicate the regions of interest in the images. It contains a total of 426 lumbar T2 sagittal MRI images, each from a different patient. The resolution was uniformly adjusted to 512x512 using linear interpolation, and the intensity was uniformly adjusted to [0,1] using a normalisation method. The data format is designated as .pt, and each dataset comprises one original image and labelled annotations (the annotated regions correspond to the lumbar vertebrae L1-L5, intervertebral discs D1-D5, and sacrum S1).
 # Data composition and download
 The data has been structured in the following manner and is available for download as required.
